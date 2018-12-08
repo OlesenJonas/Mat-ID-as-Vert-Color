@@ -1,3 +1,3 @@
 # Material IDs to Vertex Color
 
-Stores Material ID in vertex colors
+Stores Material Viewport Colors in Vertex Colors
