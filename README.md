@@ -1,3 +1,4 @@
 # Material IDs to Vertex Color
 
-Stores Material Viewport Colors in Vertex Colors
+1) Store material viewport colors in vertex colors
+2) Create material masks in vertex colors
